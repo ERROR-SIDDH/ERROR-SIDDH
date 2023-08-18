@@ -49,7 +49,7 @@
 
 ###
 
-<img align="right" height="250" src="[https://i.imgflip.com/65efzo.gif](https://media.discordapp.net/attachments/943560013568426024/1055554388569116742/DP.png)"  />
+<img align="right" height="250" src="https://media.discordapp.net/attachments/943560013568426024/1055554388569116742/DP.png"  />
 
 ###
 
@@ -65,13 +65,4 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/8d6q401ojyp9zm8tpqso7lcfk">
-    <img src="    https://spotify-recently-played-readme.vercel.app/api?user=8d6q401ojyp9zm8tpqso7lcfk&count=5" alt="Spotify recently played"  />
-
-  </a>
-</div>
-
-###
