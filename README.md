@@ -67,8 +67,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ERROR-SIDDH/ERROR-SIDDH/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="https://open.spotify.com/user/8d6q401ojyp9zm8tpqso7lcfk">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
