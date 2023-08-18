@@ -49,7 +49,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="250" src="[https://i.imgflip.com/65efzo.gif](https://media.discordapp.net/attachments/943560013568426024/1055554388569116742/DP.png)"  />
 
 ###
 
