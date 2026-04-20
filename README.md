@@ -1,68 +1,51 @@
-<h2 align="left">Hi 👋! I'm SIDHARTH M</h2>
+<div align="center">
 
-###
+<h1>Sidharth M</h1>
+
+<p><code>full-stack · cybersecurity · iot · based in /dev/null</code></p>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msidharth/)
+[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sidharthmannikoth@gmail.com)
+
+</div>
+
+---
+
+I build things that sit at the intersection of **security**, **modern web**, and **hardware** — sometimes all three at once.
+
+```
+TypeScript / Next.js   →  full-stack web + real-time systems
+Python                 →  AI/ML pipelines, audio processing
+Shell / C++            →  Linux hardening, IoT firmware
+```
+
+---
+
+**Projects worth looking at:**
+
+| | |
+|---|---|
+| [**AEGIS**](https://github.com/ERROR-SIDDH/AEGIS) | Secure, proctored exam platform with live monitoring across lab PCs |
+| [**EchoVault**](https://github.com/ERROR-SIDDH/os_project_real_time_transcription) | Real-time transcription over WebSocket using OpenAI Whisper |
+| [**CIS Hardening Toolkit**](https://github.com/ERROR-SIDDH/CIS-Benchmark-Hardening-Toolkit---L1) | Enterprise Ubuntu hardening — audit, remediate, rollback |
+| [**DDoS Forensics**](https://github.com/ERROR-SIDDH/DDoS_Visual_Analysis) | Forensic analysis pipeline on raw `.pcapng` captures from a real attack |
+| [**Carbon Logger**](https://github.com/ERROR-SIDDH/carbon) | ESP8266-based carbon emission monitor with live server reporting |
+
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ERROR-SIDDH.ERROR-SIDDH&"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ERROR-SIDDH&show_icons=true&theme=transparent&hide_border=true&hide_title=true&rank_icon=github" width="47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERROR-SIDDH&layout=compact&theme=transparent&hide_border=true&hide_title=true" width="47%" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ERROR-SIDDH/ERROR-SIDDH/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ERROR-SIDDH/ERROR-SIDDH/output/snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ERROR-SIDDH/ERROR-SIDDH/output/snake.svg">
+</picture>
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ERROR-SIDDH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ERROR-SIDDH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-</div>
-
-###
-
-<img align="right" height="250" src="https://media.discordapp.net/attachments/943560013568426024/1055554388569116742/DP.png"  />
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/sidd.err/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:err@phoenixacademy.site" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/msidharth/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-
