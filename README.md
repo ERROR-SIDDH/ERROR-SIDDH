@@ -2,7 +2,7 @@
 
 <h1>Sidharth M</h1>
 
-<p><code>full-stack · cybersecurity · iot · based in /dev/null</code></p>
+<p><code>cybersecurity · iot · based in /dev/null</code></p>
 
 <br/>
 
